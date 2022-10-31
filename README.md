@@ -1,7 +1,12 @@
 # eCommerce Back End  
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)  
 ## Description  
-This project was an assignment, my task was to build out the back end for a mock eCommerce site. I was given a partially completed Express API to finish building, and create a DB to connect to using Sequelize and mySQL.    
+This project was an assignment, my task was to build out the back end for a mock eCommerce site. I was given a partially completed Express API to finish building, and create a DB to connect to using Sequelize and mySQL.
+
+## [Walkthrough video](https://watch.screencastify.com/v/lfARg4JkxEwvjn3SzrYE)
+![screenshot of insomnia demo](insomnia_screenshot.PNG)
+
+
 ## Table of Contents  
 * [Details](#details)  
        * [Technologies](#technologies)  
